@@ -42,13 +42,13 @@ The models can be used to create a variety of scenes in Decentraland, such as:
 
 Here are some examples of the models included in this repository in action:
 
-![Amsterdam Canal Scene](https://imgur.com/G0QesWa)
+![Amsterdam Canal Scene](https://i.imgur.com/G0QesWa.png)
 *An Amsterdam House scene, streetlights, and a garbage container*
 
-![Amsterdam Canal Scene 2](https://imgur.com/Tn1NfuR)
+![Amsterdam Canal Scene 2](https://i.imgur.com/Tn1NfuR.png)
 *2 Canal Houses scene, streetlights, Fence, Bike and a garbage container*
 
-![Coffeeshop](https://imgur.com/0gBOtdE)
+![Coffeeshop](https://i.imgur.com/0gBOtdE.png)
 *A coffeeshop, with interior and objects*
 
 
