@@ -58,7 +58,5 @@ If you have any questions, feedback, or suggestions for new models, feel free to
 
 ## License
 
-All the models in this repository are licensed under the Creative Commons CC0 1.0 Universal License, which means you can use, modify, and distribute them for any purpose, without asking for permission or giving attribution.
-
-Enjoy the models, and have fun building your own Amsterdam in Decentraland!
+All models in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You are free to download, use, and modify the models for non-commercial purposes, as long as you give attribution to the original creator and share any modified versions under the same license terms. For more information, please refer to the full text of the license [here](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
