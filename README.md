@@ -1,6 +1,6 @@
 # Free Building Models of Real-Life Amsterdam for Decentraland
 
-![Amsterdam Cityscape](https://imgur.com/YVNGbU7)[Imgur](https://imgur.com/YVNGbU7)
+![Amsterdam Cityscape](https://i.imgur.com/YVNGbU7.jpg)
 
 Welcome to my free building models repository, where you can find realistic 3D models of iconic buildings and landmarks from the beautiful city of Amsterdam, available for anyone to use and modify in their Decentraland scenes.
 
